@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
 	<bug_id>Needed for bug tracking</bug_id>
-  <title>What/Where/When</title>
-  <severity>Blocker/Critical/Major/Minor/Trivial</severity>
-  <priority>High/Medium/Minor</priority>
-  <assigned_to>Developer name</assigned_to>
-  <reported_by>QA engeneer name</reported_by>
-  <environment>Device/Manufacturer and model number/OS version/Application version/Network connectivity/Screen orientation/Browser</environment>
-  <steps>Should contain the minimum steps that describe the entire path of reproducing the bug</steps>
-  <expected_result>This field describes the actual effect of the bug</expected_result>
-  <attachments>Screenshots/Video/Log-file</attachments>
+ 	<title>What/Where/When</title>
+	<severity>Blocker/Critical/Major/Minor/Trivial</severity>
+	<priority>High/Medium/Minor</priority>
+	<assigned_to>Developer name</assigned_to>
+	<reported_by>QA engeneer name</reported_by>
+	<environment>Device/Manufacturer and model number/OS version/Application version/Network connectivity/Screen orientation/Browser</environment>
+	<steps>Should contain the minimum steps that describe the entire path of reproducing the bug</steps>
+	<expected_result>This field describes the actual effect of the bug</expected_result>
+	<attachments>Screenshots/Video/Log-file</attachments>
 </items>
