@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<information>
+<person>
 	<name>Oksana</name>
 	<surname>Iskandarova</surname>
 	<age>29</age>
-	<pets>1</pets>
-	<salary>1000</salary>
-</information>
+	<pets>one cat</pets>
+	<salary>1000$</salary>
+</person>

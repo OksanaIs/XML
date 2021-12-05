@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <information> 
 	<Skills>
-		<list>SDLC</list> 
-		<list>STLC</list> 
-		<list>HTTP</list> 
-		<list>JSON</list> 
-		<list>XML</list> 
-		<list>API</list> 
-		<list>Postman</list> 
-		<list>Charles</list> 
-		<list>Fiddler</list> 
-		<list>Dev Tools</list> 
-		<list>VPN</list> 
-		<list>ADB</list> 
-		<list>bash</list> 
-		<list>SQL</list> 
-		<list>"GIT</list> 
-		<list>Jmeter</list> 
+		<list>Knowledge of basic theory (What is testing, bug reports, documentation, types, methods, testing directions) SDLC, STLC"</list> 
+		<list>Understanding the Scrum development methodology</list> 
+		<list>Knowledge about HTTP Server request methods, HTTP server response codes, HTTP requests, and response structures</list> 
+		<list>Understanding what is JSON, XML, their structure</list> 
+		<list>API testing via Postman (JS, API autotests</list> 
+		<list>Programs: Charles, Fiddler, PostrgeSQL, Jmeter</list> 
+		<list>Knowledge of DevTools of web browsers (Google Chrome, Firefox)</list> 
+		<list>Mobile testing</list> 
+		<list>Understanding iOS, Android functions, guidelines</list> 
+		<list>Terminal Linux</list> 
+		<list>GitHub</list> 
+		<list>Python (learning the basics, building a client/server application)</list> 
 	</Skills> 
-</information>	
+</information>
