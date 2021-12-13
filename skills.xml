@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?> 
-<information> 
-	<Skills>
-		<list>Knowledge of basic theory (What is testing, bug reports, documentation, types, methods, testing directions) SDLC, STLC"</list> 
-		<list>Understanding the Scrum development methodology</list> 
-		<list>Knowledge about HTTP Server request methods, HTTP server response codes, HTTP requests, and response structures</list> 
-		<list>Understanding what is JSON, XML, their structure</list> 
-		<list>API testing via Postman (JS, API autotests</list> 
-		<list>Programs: Charles, Fiddler, PostrgeSQL, Jmeter</list> 
-		<list>Knowledge of DevTools of web browsers (Google Chrome, Firefox)</list> 
-		<list>Mobile testing</list> 
-		<list>Understanding iOS, Android functions, guidelines</list> 
-		<list>Terminal Linux</list> 
-		<list>GitHub</list> 
-		<list>Python (learning the basics, building a client/server application)</list> 
-	</Skills> 
-</information>
+<skills>
+	<basic_theory>
+		<theory_1>What is testing, SDLC, STLC</theory_1>
+		<theory_2>Writing Test documentation (Bug Reports, Checklists, Test Cases)</theory_2>
+		<theory_3>Types, methods, levels of testing, etc</theory_3>
+	</basic_theory>
+	<client_server_architecture>
+		<topic_1>HTTP methods of requests to the server</topic_1>
+		<topic_2>HTTP server response codes</topic_2>
+		<topic_3>Structures of HTTP requests and responses</topic_3>
+		<topic_4>What is JSON, XML. Their structure</topic_4>
+	</client_server_architecture>
+	<programs>
+		<program_1>Postman: API testing (JS, API autotests)</program_1>
+		<program_2>Charles and Fiddler: Sniffing HTTP web traffic, intercepting mobile traffic</program_2>
+		<program_3>XCode and Android Studio</program_3>
+		<program_4>Jmeter: Load, Stress, Performance testing</program_4>
+	</programs>
+	<sql>Create, Delete, Drop, Insert Into, Select, From, Where, Join</sql>
+	<python>Learning the basics. Creating a client-server application</python>
+	<devtools>Google Chrome, FireFox</devtools>
+</skills>

@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-	<bug_report>
-		<bug_id>Needed for bug tracking</bug_id>
-		<title>What/Where/When</title>
-		<severity>Blocker/Critical/Major/Minor/Trivial</severity>
-		<priority>High/Medium/Minor</priority>
-		<assigned_to>Developer name</assigned_to>
-		<reported_by>QA engineer name</reported_by>
-		<environment>Device/OS version/Application version/Network connectivity/Browser</environment>
-		<steps>Should contain the minimum steps that describe the entire path of reproducing the bug</steps>
-		<expected_result>This field describes the actual effect of the bug</expected_result>
-		<attachments>Screenshots/Video/Log-file</attachments>
-	</bug_report>
+<bug_report>
+	<bug_id>#12</bug_id>
+	<title>When tapping on the Wishlist icon and Login, the item is not added to the Wishlist</title>
+	<severity>Major</severity>
+	<priority>Medium</priority>
+	<assigned_to>Johny Sonson</assigned_to>
+	<reported_by>Oksana Iskandarova</reported_by>
+	<environment>
+		<platform>macOS Bug Sur, version 11.6</platform>
+		<browser>Chrome 96.0.4664.93 (Official Build) (x86_64)</browser>
+	</environment>
+	<steps>
+		<step_1>Go to https://www.sportsmans.com</step_1>
+		<step_2>Go to any product detail page</step_2>
+		<step_3>Tap on wishlist icon</step_3>
+		<step_4>Log in to account</step_4>
+		<step_5>Observe wishlist icon on PDP</step_5>
+		<step_6>Go to My account -> Wishlist</step_6>
+	</steps>
+	<expected_result>The Wishlist icon should be highlighted and an item should be added to the Wishlist after login</expected_result>
+	<actual_result>When tapping on the Wishlist and login, observed that the item is not added in the Wishlist of the My Account tab, and the Wishlist button is not highlighted</actual_result>
+	<attachments>Video</attachments>
+</bug_report>

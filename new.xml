@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
-	<name>Oksana</name>
-	<surname>Iskandarova</surname>
-	<age>29</age>
-	<pets>one cat</pets>
-	<salary>1000$</salary>
+	<about_me>
+		<name>Oksana</name>
+		<surname>Iskandarova</surname>
+		<age>30</age>
+		<date_of_birth>12/09/1991</date_of_birth>
+	</about_me>
+	<work>
+		<position>QA Engineer</position>
+		<looking_for>Remote job</looking_for>
+	</work>
+	<salary>
+		<amount>1000</amount>
+		<currency>USD</currency>
+	</salary>
 </person>

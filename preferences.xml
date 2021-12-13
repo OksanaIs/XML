@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  <preferences>
-      <favorite_movie>Intouchables</favorite_movie>
-      <favorite_series>La casa de papel</favorite_series>
-      <favorite_food>Polls</favorite_food>
-      <favorite_season>Spring</favorite_season>
-      <favorite_country>Sweden</favorite_country>
-  </preferences>
+<preferences>
+  <favorite_movie>Intouchables</favorite_movie>
+  <favorite_tv_serials>
+    <tv_series1>La casa de papel<tv_series1>
+    <tv_series2>Vikings<tv_series2>
+  </favorite_tv_serials>
+  <favorite_foods>
+    <food_1>Rolls</food_1>
+    <food_2>Steak</food_2>
+    <food_3>Cakes</food_3>
+  </favorite_foods>
+  <favorite_season>Spring</favorite_season>
+  <favorite_countries>
+    <country_1>Sweden</country_1>
+    <country_2>USA</country_2>
+    <country_3>Italy</country_3>
+  </favorite_countries>
+</preferences>
